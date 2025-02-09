@@ -1,0 +1,3 @@
+Total cost is: $165235.37
+
+The elapsed execution time is :0.6258487701416016 ms

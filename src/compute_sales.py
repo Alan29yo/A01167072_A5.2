@@ -17,11 +17,9 @@ if __name__ == "__main__":
     with open(REL_PATH + FILEPATH_1, "r", encoding="utf-8") as f1:
         prod_list = json.load(f1)
 
-    """
-        for obj in prod_list:
-            print(obj)
-        print("\n\n")
-    """
+    #    for obj in prod_list:
+    #        print(obj)
+    #    print("\n\n")
 
     with open(REL_PATH + FILEPATH_2, "r", encoding="utf-8") as f2:
         sales = json.load(f2)
